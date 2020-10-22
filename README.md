@@ -1,7 +1,7 @@
 # telegram-translator-bot
 Telegram Translator Bot
 
-The main aim of Telegram Translator Bot is to allow users to iteract with different translation services and dictionaries via Telegram.
+The main aim of Telegram Translator Bot is to allow users to interact with different translation services and dictionaries through Telegram.
 
 Based on:
 - Telegram Bot API;
